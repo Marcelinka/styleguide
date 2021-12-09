@@ -1,2 +1,3 @@
-# styleguide
-Style Guide
+# Style Guide
+
+- [Работа с репозиторием](git.md)
